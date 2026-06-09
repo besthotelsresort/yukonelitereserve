@@ -1,0 +1,4 @@
+Contact: mailto:security@yukonelitereserve.example
+Expires: 2027-05-28T13:56:57.069Z
+Preferred-Languages: en, de, fr
+Canonical: https://example.com/.well-known/security.txt
